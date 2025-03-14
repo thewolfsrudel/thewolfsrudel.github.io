@@ -1,8 +1,8 @@
 {
-	"name": "<repo_name>",
+	"name": "thewolfsrudel.github.io",
 	"version": "1.0.0",
-	"author": "<author>",
-	"repository": "<repository_url>",
+	"author": "Wolfsrudel, USA",
+	"repository": "https://github.com/thewolfsrudel/thewolfsrudel.github.io",
 	"license": "MIT",
 	"type": "module",
 	"private": true,
